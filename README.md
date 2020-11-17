@@ -1,5 +1,7 @@
 # darknet-config
 
+The repository is moved to [yolo-dl](https://github.com/jerry73204/yolo-dl).
+
 It provides utilities to work with AlexeyAB's [darknet](https://github.com/AlexeyAB/darknet) configuration and weights files, written in Rust.
 It features [serde](https://crates.io/crates/serde)-compatible configuration, weights file loading and safe model types.
 
